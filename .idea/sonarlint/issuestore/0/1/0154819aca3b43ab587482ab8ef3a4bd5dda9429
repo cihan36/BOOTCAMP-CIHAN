@@ -1,0 +1,5 @@
+
+R	php:S1808"=Move this open curly brace to the beginning of the next line.(°ÖÔš
+_	php:S1808"JPut one space between the closing parenthesis and the opening curly brace.(°ÖÔš
+jphp:S100"VRename function "print_something" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(°ÖÔš
+7	php:S1780	"Remove this closing tag "?>".(Ö‘äÏúÿÿÿÿ
