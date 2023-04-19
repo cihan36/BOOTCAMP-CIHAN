@@ -1,0 +1,16 @@
+<?php
+
+
+function post_levenstein_score()
+{
+    if (isset($_POST["str_one"]) || isset($_POST["str_two"])) {
+         return levenshtein($_POST["str_one"], $_POST["str_two"]);
+
+    } 
+    return null;
+
+
+
+}
+
+?>
