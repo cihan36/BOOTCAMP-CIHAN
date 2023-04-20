@@ -19,3 +19,13 @@ H
 Bootcamp_Day01/ex_09.php,3/0/306873ea951f24e6ec73391d684584f29bd724f4
 H
 Bootcamp_Day01/ex_10.php,0/f/0f6f9fb3dff53c5c96ae5051f25b72ed7510273c
+H
+Bootcamp_Day01/ex_12.php,1/0/104fca6a0b65c57dbc0e64eb197230ad41c06863
+H
+Bootcamp_Day01/ex_13.php,0/9/09b824eba7cf53d4341cf3a50aa730eeeb8abf83
+H
+Bootcamp_Day01/ex_14.php,4/9/49f382a466809a440300ecea5c7db3842c55a803
+H
+Bootcamp_Day01/ex_15.php,0/0/00c6384f91812da9af7e2ff754f66608236c23e2
+H
+Bootcamp_Day01/ex_17.php,a/e/ae82b238bd591838b06941eaabf44dbb98a3b999

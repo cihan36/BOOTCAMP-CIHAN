@@ -1,13 +1,15 @@
 <?php
 
 
-class MyAttribute{
+class MyAttribute
+{
 
-public function display($test){
+    public function display($test)
+    {
 
-echo $test."\n";
+        echo $test . "\n";
 
-}
+    }
 
 
 }
