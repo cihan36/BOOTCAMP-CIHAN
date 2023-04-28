@@ -4,6 +4,12 @@
 class MyAttribute
 {
 
+     public function __construct(){
+
+
+
+        
+     }
     public function display($test)
     {
 

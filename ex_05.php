@@ -11,11 +11,12 @@ class Character
     protected $mana = 2;
 
     const CLASSE = "Character";
-    
 
-     public function __construct($name){
 
-$this->name = $name;
+    public function __construct($name)
+    {
+
+        $this->name = $name;
 
 
     }
